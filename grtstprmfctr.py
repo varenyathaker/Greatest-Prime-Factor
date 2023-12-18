@@ -33,7 +33,7 @@ def find_largest_prime_factor():
 root = tk.Tk()
 root.title("Largest Prime Factor Finder")
 root.geometry("{0}x{1}+0+0".format(root.winfo_screenwidth(), root.winfo_screenheight()))
-root.minsize(900,700)
+root.minsize(1000, 1000)
 root.configure(bg="#E0FFFF")
 
 # Introduction and Instructions Section
